@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 56 skills |
+| 2026 | [2026.md](2026/2026.md) | 57 skills |
 
 ## Quick Links
 
@@ -85,6 +85,7 @@ daily-learnings/
 - [2026-04-23: 每日操作總結 Cron Job 時程修正 (21:00→23:00), 目錄結構澄清](2026/04/2026-04-23.md)
 - [2026-04-27: brthermes 設定檔完成, Discord dmPolicy 修正, Multi-Agent 收斂框架](2026/04/2026-04-27.md)
 - [2026-04-28: Coding Agent 架構研究, Brain/Body/Herness 框架, 四大 CLI Coding Agent 評估](2026/04/2026-04-28.md)
+- [2026-04-29: GitHub Trending/OpenClaw Updates 頻道設定, Discord JSON curl→urllib 修復, i-En API 監控](2026/04/2026-04-29.md)
 
 ## Knowledge Base
 
