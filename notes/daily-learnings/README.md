@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 59 skills |
+| 2026 | [2026.md](2026/2026.md) | 60 skills |
 
 ## Quick Links
 
@@ -88,6 +88,7 @@ daily-learnings/
 - [2026-04-29: GitHub Trending/OpenClaw Updates 頻道設定, Discord JSON curl→urllib 修復, i-En API 監控](2026/04/2026-04-29.md)
 - [2026-04-30: Discord 回覆問題修復, i-En R2 遷移完成, 分層協作架構建立](2026/04/2026-04-30.md)
 - [2026-05-02: OpenClaw 2026.4 月報, Discord Delivery Fix 持續, Release Tracker 報告格式更新](2026/05/2026-05-02.md)
+- [2026-05-03: Cron Job Delivery 格式修正 (bare ID → channel:ID), 19 Jobs 確認正常](2026/05/2026-05-03.md)
 
 ## Knowledge Base
 
