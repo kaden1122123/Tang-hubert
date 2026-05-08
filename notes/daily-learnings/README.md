@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 63 skills |
+| 2026 | [2026.md](2026/2026.md) | 64 skills |
 
 ## Quick Links
 
@@ -92,6 +92,7 @@ daily-learnings/
 - [2026-05-04: jcode 安裝, i-En API 監控 Script 確認正常](2026/05/2026-05-04.md)
 - [2026-05-05: Threads API 串接成功, 兩步驟發布流程 (container→threads_publish)](2026/05/2026-05-05.md)
 - [2026-05-07: OpenClaw Security Audit 修復 (plugins 釘版), MEMORY.md 架構整理討論](2026/05/2026-05-07.md)
+- [2026-05-08: Cognee 修復, MEMORY.md 清理, Threads 每日發文系統全重建 (AM/PM/Nightly)](2026/05/2026-05-08.md)
 
 ## Knowledge Base
 
