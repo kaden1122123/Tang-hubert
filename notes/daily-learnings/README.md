@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 62 skills |
+| 2026 | [2026.md](2026/2026.md) | 63 skills |
 
 ## Quick Links
 
@@ -91,6 +91,7 @@ daily-learnings/
 - [2026-05-03: Cron Job Delivery 格式修正 (bare ID → channel:ID), 19 Jobs 確認正常](2026/05/2026-05-03.md)
 - [2026-05-04: jcode 安裝, i-En API 監控 Script 確認正常](2026/05/2026-05-04.md)
 - [2026-05-05: Threads API 串接成功, 兩步驟發布流程 (container→threads_publish)](2026/05/2026-05-05.md)
+- [2026-05-07: OpenClaw Security Audit 修復 (plugins 釘版), MEMORY.md 架構整理討論](2026/05/2026-05-07.md)
 
 ## Knowledge Base
 
