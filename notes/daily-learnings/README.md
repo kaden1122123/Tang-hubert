@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 64 skills |
+| 2026 | [2026.md](2026/2026.md) | 65 skills |
 
 ## Quick Links
 
@@ -93,6 +93,7 @@ daily-learnings/
 - [2026-05-05: Threads API 串接成功, 兩步驟發布流程 (container→threads_publish)](2026/05/2026-05-05.md)
 - [2026-05-07: OpenClaw Security Audit 修復 (plugins 釘版), MEMORY.md 架構整理討論](2026/05/2026-05-07.md)
 - [2026-05-08: Cognee 修復, MEMORY.md 清理, Threads 每日發文系統全重建 (AM/PM/Nightly)](2026/05/2026-05-08.md)
+- [2026-05-09: Cron Jobs 修復 (timeout 300s→600s), Threads AM/PM/Pain Diary timeout 修復](2026/05/2026-05-09.md)
 
 ## Knowledge Base
 
